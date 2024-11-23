@@ -1,6 +1,8 @@
 # Requesting-Wifi-Access---ServiceNow
 
-This project focuses on automating the process of requesting and managing WiFi access through ServiceNow. It eliminates the inefficiencies of manual requests, enhances request tracking, and ensures secure and timely access. The goal is to create a seamless, automated solution that reduces administrative burden, ensures accuracy, and improves the user experience.
+This project focuses on automating the process of requesting and managing WiFi access through ServiceNow. It eliminates the inefficiencies of manual requests, enhances request tracking, and ensures secure and timely access. The goal is to create a seamless, automated solution that reduces administrative burden, ensures accuracy, and improves the user experience. 
+
+By leveraging ServiceNow’s capabilities, this solution simplifies workflows, making the WiFi access request process more efficient and transparent. It supports organizational goals by ensuring compliance with security policies and enhancing operational efficiency.
 
 ---
 
